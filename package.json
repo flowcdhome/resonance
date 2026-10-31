@@ -1,0 +1,16 @@
+{
+  "name": "resonance",
+  "version": "1.0.0",
+  "description": "Лёгкий музыкальный плеер на YouTube с текстами песен",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  },
+  "allowScripts": {
+    "electron@33.4.11": true
+  }
+}
